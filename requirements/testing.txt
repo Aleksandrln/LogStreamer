@@ -1,0 +1,6 @@
+-r common.txt
+
+pytest
+pytest-mock
+mock-open
+Faker
